@@ -2,7 +2,7 @@
 
 Click the image below to check out the video!
 
-[![what is biodiversity](https://img.youtube.com/vi/cjQL1HqE4O4/0.jpg)](https://www.youtube.com/watch?v=cjQL1HqE4O4)
+[![what is biodiversity](https://img.youtube.com/vi/K0VDhkHdMDU/0.jpg)](https://www.youtube.com/watch?v=K0VDhkHdMDU)
 
 References from the video:
 
