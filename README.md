@@ -12,3 +12,20 @@ References from the video:
 - Original power lab species area relationship: [Arrhenius (1921)](https://doi.org/10.2307/2255763)
 - Debate about species area relationship and predicting extinctions: [Tilman et al. (1994)](https://www.nature.com/articles/371065a0), [Pimm et al. (1995)](https://doi.org/10.1073/pnas.92.20.9343), [He and Hubbell (2011)](https://www.nature.com/articles/nature09985), [Kitzes and Harte (2014)](https://doi.org/10.1111/2041-210X.12130), [Keil et al. (2015)](https://www.nature.com/articles/ncomms9837?origin=ppub)
 - Species area relationship and forest disturbance: [Newman et al. (2020)](https://doi.org/10.1002/ecs2.3022)
+
+## Discussion topics from the issues
+
+- How does the geometry of the area influence species accumulation?
+- Does species group matter?
+- What is the relationship between Brownian Motion models and Max Entropy?
+- How about a dynamic ecosystem like the ocean?
+- How well does it scale?
+- What about species time?
+- How do we deal with human bias?
+- Can it really be this simple?
+- What about process?
+- What's a real world example of non-stationary?
+- More about extinction?
+- Other examples of how deviations are informative?
+- When are there so many deviations we should move on?
+- More on E0 and temperature?
