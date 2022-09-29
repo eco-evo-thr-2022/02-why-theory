@@ -2,7 +2,7 @@
 
 Click the image below to check out the video!
 
-[![why theory](https://img.youtube.com/vi/K0VDhkHdMDU/0.jpg)](https://www.youtube.com/watch?v=K0VDhkHdMDU)
+[![why theory](https://img.youtube.com/vi/pChgGtLc-40/0.jpg)](https://www.youtube.com/watch?v=pChgGtLc-40)
 
 References from the video:
 
